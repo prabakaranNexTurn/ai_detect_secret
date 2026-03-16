@@ -1,4 +1,4 @@
-AWS_SECRET_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
+AWS_SECRET_ACCESS_KEY = "DGJD"
 REDACTED_SECRET
 db_connection = "postgres://user:pass@db.example.com"
-api_key = "sk-9asd89as7d9as7d"
+api_key = "DSADKH"
